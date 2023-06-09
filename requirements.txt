@@ -1,0 +1,6 @@
+streamlit==0.82.0
+numpy==1.19.5
+pandas==1.2.4
+scipy==1.6.3
+requests==2.25.1
+PuLP==2.4
